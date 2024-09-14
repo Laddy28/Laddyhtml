@@ -1,0 +1,21 @@
+body {
+  font-family: Times New Roman;
+  background-color: #FFC0CB;
+  color: black;
+  text-align: center;
+}
+h1{
+  background-color: #FFC0CB;
+  color: white; 
+}
+
+
+.p1{
+  background-color:#FFC0CB;
+  color: purple; 
+}
+
+.p2{
+  background-color:#FFC0CB;
+  color:green; 
+}
